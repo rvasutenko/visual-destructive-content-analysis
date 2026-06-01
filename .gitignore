@@ -1,5 +1,3 @@
-# config.py
-
 venv/
 .venv/
 env/
@@ -38,7 +36,6 @@ plots/
 *.csv
 
 dataset/
-!data/README.md   # оставить только описание, если нужно
 *.jpg
 *.jpeg
 *.png
